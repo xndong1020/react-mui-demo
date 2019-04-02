@@ -1,8 +1,8 @@
 import React from 'react'
 
 const HomePage = () => (
-  <div className="jumbotron">
-    <h1>Home</h1>
+  <div>
+    <h2>Home</h2>
     <p>Home Page</p>
   </div>
 )

@@ -1,0 +1,19 @@
+ul {
+  display: flex;
+  flex-flow: column;
+  padding: 0 15px;
+
+  li {
+    flex: 1;
+    list-style: none;
+    display: block;
+    padding: 10px 5px;
+
+    a {
+      text-decoration: none;
+      &:hover {
+        color: orange;
+      }
+    }
+  }
+}

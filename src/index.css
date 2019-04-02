@@ -1,5 +1,6 @@
 #app {
-  max-width: 850px;
+  width: 90vw;
+  max-width: 90vw;
   margin: 0 auto;
 }
 
